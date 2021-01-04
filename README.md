@@ -3,7 +3,7 @@ original oculus c++ dll for monogame can be found here https://github.com/cpt-ma
 
 # monogame-with-physics---VR-and-non-VR
 
-Project 1: Oculus Rift c++ dll wrapper rebuilt in monogame 3.7.1.189 - i just rebuilt the original repo here https://github.com/cpt-max/OculusRift4MonoGame and made it work in monogame 3.7.1.189. Anyone can do that. it's super easy.
+Project 1: Oculus Rift c++ dll wrapper rebuilt in monogame 3.7.1.189 - i just rebuilt the original repo here https://github.com/cpt-max/OculusRift4MonoGame and made it work in monogame 3.7.1.189. Anyone can do that. it's super easy. There are no jitter physics in this one. it's a simple rebuild.
 
 <img src="https://i.ibb.co/jb7vmNV/oculusv-wrappermonogame3-8-1-189.png" alt="oculusv-wrappermonogame3-8-1-189" border="0">
 
