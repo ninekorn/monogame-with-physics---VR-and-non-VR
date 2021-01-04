@@ -5,6 +5,7 @@ original oculus c++ dll for monogame can be found here https://github.com/cpt-ma
 
 Project 1: Oculus Rift c++ dll wrapper rebuilt in monogame 3.7.1.189 - i just rebuilt the original repo here https://github.com/cpt-max/OculusRift4MonoGame and made it work in monogame 3.7.1.189. Anyone can do that. it's super easy.
 
+<img src="https://i.ibb.co/93RMfF5/my-rebuild-monogame-jitter-physics.png" alt="my-rebuild-monogame-jitter-physics" border="0">
 
 Project 2: Oculus Rift c++ dll wrapper with monogame 3.8.0.1641 with jitter physics and instanced object with the jitter physics.
 I just combined the oculus rift c++ dll with monogame 3.8.0.1641 with the original jitter physics and added an example of instanced
