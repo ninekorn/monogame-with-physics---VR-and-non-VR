@@ -7,10 +7,10 @@ Project 1: Oculus Rift c++ dll wrapper rebuilt in monogame 3.7.1.189 - i just re
 
 <img src="https://i.ibb.co/jb7vmNV/oculusv-wrappermonogame3-8-1-189.png" alt="oculusv-wrappermonogame3-8-1-189" border="0">
 
-Project 2: Oculus Rift c++ dll wrapper with monogame 3.8.0.1641 with jitter physics 
+Project 2: Oculus Rift c++ dll wrapper with monogame 3.8.0.1641 with jitter physics... its a normal rebuild. Anyone can do that.
 <img src="https://i.ibb.co/93RMfF5/my-rebuild-monogame-jitter-physics.png" alt="my-rebuild-monogame-jitter-physics" border="0">
 
-Project 3: jitter physics in monogame 3.8.0.1641 - no VR
+Project 3: jitter physics in monogame 3.8.0.1641
 I tried using the repo here https://github.com/mattleibow/jitterphysics but it didn't work out of the box. so i rebuilt it in monogame 3.8 3.8.0.1641 but using the Jitter physics from the google archive here https://code.google.com/archive/p/jitterphysics/ .  It doesn't include the fixes of github user mattleibow yet on some jitter physics code. The Jitter physics is MIT license and the jitter physics license is written all over the scripts inside of the jitter.dll. The mattleibow repo is probably still working but somehow i wasn't able to make it work after a while anymore. and instanced object with the jitter physics.
 I just combined the oculus rift c++ dll with monogame 3.8.0.1641 with the original jitter physics and added an example of instanced
 cubes using the jitter physics... you will notice that the first scene has normal jitter physics monogame instantiation of objects, and i spawned a couple of light gray cubes and at the exact identical place as them are green "instanced" cubes using the same jitter
