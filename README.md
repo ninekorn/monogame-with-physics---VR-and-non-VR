@@ -13,12 +13,12 @@ cubes using the jitter physics... you will notice that the first scene has norma
 physics engine position as the normal instantiated jitter physics demo code. achieving instanced objects in monogame was easier than i thought but i had issues in my shader. I used the instanced monogame scripts explained here https://community.monogame.net/t/hardware-instancing-shader/12259/2 or here https://community.monogame.net/t/hardware-instancing-shader/12259/3 if i remember correctly, and i used the pasteBin and unity3d forums way of capturing the vectors forward/right/up
 for a quaternion. I think it was the user DeAngelo that posted how it worked back then on the unity forums. i will have to see if i screenshoted the forum post when he posted that, all credits to him back then because it was the only place i had found how to retrieve directions out of a quaternion.
 
-<img src="https://i.ibb.co/m62dhkV/oculus-Riftc-dllwith-Monogame3-8-0-1641.png" alt="oculus-Riftc-dllwith-Monogame3-8-0-1641" border="0">
+<img src="https://i.ibb.co/93RMfF5/my-rebuild-monogame-jitter-physics.png" alt="my-rebuild-monogame-jitter-physics" border="0">
 
 Project 3: jitter physics in monogame 3.8.0.1641 - no VR
 I tried using the repo here https://github.com/mattleibow/jitterphysics but it didn't work out of the box. so i rebuilt it in monogame 3.8 3.8.0.1641 but using the Jitter physics from the google archive here https://code.google.com/archive/p/jitterphysics/ .  It doesn't include the fixes of github user mattleibow yet on some jitter physics code. The Jitter physics is MIT license and the jitter physics license is written all over the scripts inside of the jitter.dll. The mattleibow repo is probably still working but somehow i wasn't able to make it work after a while anymore.
 
-<img src="https://i.ibb.co/93RMfF5/my-rebuild-monogame-jitter-physics.png" alt="my-rebuild-monogame-jitter-physics" border="0">
+<img src="https://i.ibb.co/m62dhkV/oculus-Riftc-dllwith-Monogame3-8-0-1641.png" alt="oculus-Riftc-dllwith-Monogame3-8-0-1641" border="0">
 
 thank you for reading me.
 steve chassé
