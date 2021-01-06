@@ -16,6 +16,7 @@ cubes using the jitter physics... you will notice that the first jitter physics 
 physics engine position as the normal instantiated jitter physics demo code. achieving instanced objects in monogame was easier than i thought but i had issues in my shader. I used the instanced exemples explained here https://community.monogame.net/t/hardware-instancing-shader/12259/2 or here https://community.monogame.net/t/hardware-instancing-shader/12259/3 if i remember correctly, and i used the pasteBin and unity3d forums way of capturing the vectors forward/right/up
 for a quaternion from the user DeAngelo that posted how it worked back then on the unity forums. i will have to see if i screenshoted the forum post when he posted that, all credits to him back then because it was the only place i had found how to retrieve directions out of a quaternion but i cannot find that post anymore and use the www as reference.
 
+Edit 2021-jan-05: something is wrong with the cubes visual from the monogame directX window but inside of the headset VR view, it is showing the terrain at the correct position? i will try and fix this issue when i have the time.
 <img src="https://i.ibb.co/m62dhkV/oculus-Riftc-dllwith-Monogame3-8-0-1641.png" alt="oculus-Riftc-dllwith-Monogame3-8-0-1641" border="0">
 
 thank you for reading me.
